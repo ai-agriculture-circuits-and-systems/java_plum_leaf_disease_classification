@@ -1,0 +1,1266 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Java Plum Leaf Disease Classification brown_blight val split",
+    "url": "https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/y6d3z6f8z9-1.zip"
+  },
+  "images": [
+    {
+      "id": 6539721502,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (100).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5895338266,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (353).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5236756599,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (197).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5331195781,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (113).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1553647582,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (385).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8028653036,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (16).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8273343341,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (285).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2241505693,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (228).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6565311226,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (185).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9047249755,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (71).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5492308876,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (45).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2953595227,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (120).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4479716183,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (189).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4614179465,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (81).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 3136736200,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (42).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7513186567,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (331).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9173467041,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (301).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4795302383,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (274).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7257344541,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (69).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1189912615,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (270).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1509722866,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (137).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4970870711,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (201).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8276699530,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (122).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2931105030,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (115).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2939288495,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (243).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7232995557,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (388).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2531460289,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (158).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6160602919,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (323).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7258066079,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (127).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4674319614,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (252).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2582129031,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (6).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4720633546,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (104).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6128472173,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (31).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1949516304,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (146).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9049988258,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (366).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2058790209,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (218).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8248496440,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (199).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4444380989,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (300).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4135076591,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (5).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8881808008,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (311).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2499003407,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (97).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9163011312,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (364).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5283294224,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (63).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9833920092,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (170).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9855630980,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (327).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4736656882,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (322).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5556538826,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (86).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4305905039,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (85).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5212686885,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (338).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8130990522,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (330).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5183552679,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (10).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9375363332,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (190).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7431824818,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (25).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9582267685,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (162).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8308442890,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (238).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4445134774,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (82).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5416151747,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (149).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5389303584,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (202).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6580406808,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (52).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9847483372,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (362).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8393519983,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (231).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9302610067,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (237).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6553135948,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (332).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2306897240,
+      "file_name": "java_plums/brown_blight/images/Brown_Blight (58).jpg",
+      "width": 3456,
+      "height": 4608
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 6539721502,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5895338266,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 5236756599,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 5331195781,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 1553647582,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 8028653036,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 8273343341,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 2241505693,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 6565311226,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 9047249755,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 5492308876,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2953595227,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 4479716183,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 4614179465,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 3136736200,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 7513186567,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 9173467041,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 4795302383,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 7257344541,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 1189912615,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 1509722866,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 4970870711,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 8276699530,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 2931105030,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 2939288495,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 7232995557,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 2531460289,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 6160602919,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 7258066079,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 4674319614,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 2582129031,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 4720633546,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 6128472173,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 1949516304,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 9049988258,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 2058790209,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 8248496440,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 4444380989,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 4135076591,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 8881808008,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 2499003407,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 9163011312,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 5283294224,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 9833920092,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 9855630980,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 46,
+      "image_id": 4736656882,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 47,
+      "image_id": 5556538826,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 48,
+      "image_id": 4305905039,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 49,
+      "image_id": 5212686885,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 50,
+      "image_id": 8130990522,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 51,
+      "image_id": 5183552679,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 9375363332,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 53,
+      "image_id": 7431824818,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 54,
+      "image_id": 9582267685,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 55,
+      "image_id": 8308442890,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 4445134774,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 5416151747,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 58,
+      "image_id": 5389303584,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 59,
+      "image_id": 6580406808,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 60,
+      "image_id": 9847483372,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 61,
+      "image_id": 8393519983,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 62,
+      "image_id": 9302610067,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 63,
+      "image_id": 6553135948,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 64,
+      "image_id": 2306897240,
+      "category_id": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "healthy",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 2,
+      "name": "bacterial_spot",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 3,
+      "name": "brown_blight",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 4,
+      "name": "sooty_mold",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 5,
+      "name": "powdery_mildew",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 6,
+      "name": "dry",
+      "supercategory": "java_plum_leaf"
+    }
+  ],
+  "licenses": []
+}

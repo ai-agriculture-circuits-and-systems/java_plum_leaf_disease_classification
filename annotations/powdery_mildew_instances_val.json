@@ -1,0 +1,1209 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "Java Plum Leaf Disease Classification powdery_mildew val split",
+    "url": "https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/y6d3z6f8z9-1.zip"
+  },
+  "images": [
+    {
+      "id": 5156905888,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (344).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4205804557,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (299).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7369034784,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (86).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1668114910,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (75).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2459734913,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (119).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1424362764,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (333).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 3322130571,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (239).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5223836585,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (280).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8023467500,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (260).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9318680671,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (362).jpg",
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "id": 7145790801,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (144).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6333900767,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (160).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5383459013,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (325).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6631516849,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (52).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8686989684,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (149).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4526259038,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (398).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8125932194,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (168).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2661599248,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (284).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6691997371,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (152).jpg",
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "id": 8214365588,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (340).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7782377778,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (217).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5451163540,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (264).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1045355175,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (139).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1635862353,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (10).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5578353737,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (16).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 3348973806,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (53).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2399281160,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (23).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5406016948,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (348).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1513597884,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (227).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6068913663,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (222).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9185843155,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (138).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2102076402,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (147).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4248409660,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (85).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1995424150,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (189).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2576120878,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (163).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 3120662798,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (3).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2994041754,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (386).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4698892581,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (8).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1439632272,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (141).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8132026941,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (371).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9833523473,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (22).jpg",
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "id": 7536145970,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (329).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8764827124,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (262).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 8552409302,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (170).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2747961619,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (50).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2099260009,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (210).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5027682942,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (137).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 1129173679,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (293).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7738942816,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (96).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 6962957745,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (332).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 3219578079,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (94).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 4141733787,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (39).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9326760499,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (390).jpg",
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "id": 2578243687,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (360).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 9550615388,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (166).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 2820264319,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (369).jpg",
+      "width": 4608,
+      "height": 3456
+    },
+    {
+      "id": 2461938762,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (273).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 3429684444,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (167).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 5439677798,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (327).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7771807066,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (80).jpg",
+      "width": 3456,
+      "height": 4608
+    },
+    {
+      "id": 7420110722,
+      "file_name": "java_plums/powdery_mildew/images/Powdery_Mildew (93).jpg",
+      "width": 3456,
+      "height": 4608
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 5156905888,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 4205804557,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 7369034784,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1668114910,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 2459734913,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 1424362764,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 3322130571,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 5223836585,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 8023467500,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 9318680671,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 7145790801,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 6333900767,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 5383459013,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 6631516849,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 8686989684,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 4526259038,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 8125932194,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 2661599248,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 6691997371,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 8214365588,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 7782377778,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 5451163540,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 1045355175,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 1635862353,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 5578353737,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 3348973806,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 2399281160,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 5406016948,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 1513597884,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 6068913663,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 9185843155,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 2102076402,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 4248409660,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 1995424150,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 2576120878,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 3120662798,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 2994041754,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 4698892581,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 1439632272,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 8132026941,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 9833523473,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 7536145970,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 8764827124,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 8552409302,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 2747961619,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 46,
+      "image_id": 2099260009,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 47,
+      "image_id": 5027682942,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 48,
+      "image_id": 1129173679,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 49,
+      "image_id": 7738942816,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 50,
+      "image_id": 6962957745,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 51,
+      "image_id": 3219578079,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 52,
+      "image_id": 4141733787,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 53,
+      "image_id": 9326760499,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 54,
+      "image_id": 2578243687,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 55,
+      "image_id": 9550615388,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 56,
+      "image_id": 2820264319,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 57,
+      "image_id": 2461938762,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 58,
+      "image_id": 3429684444,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 59,
+      "image_id": 5439677798,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 60,
+      "image_id": 7771807066,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 61,
+      "image_id": 7420110722,
+      "category_id": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        512.0,
+        512.0
+      ],
+      "area": 262144.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "healthy",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 2,
+      "name": "bacterial_spot",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 3,
+      "name": "brown_blight",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 4,
+      "name": "sooty_mold",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 5,
+      "name": "powdery_mildew",
+      "supercategory": "java_plum_leaf"
+    },
+    {
+      "id": 6,
+      "name": "dry",
+      "supercategory": "java_plum_leaf"
+    }
+  ],
+  "licenses": []
+}

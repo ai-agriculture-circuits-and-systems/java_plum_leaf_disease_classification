@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1019286440,
+      "width": 512,
+      "height": 512,
+      "file_name": "Powdery_Mildew (246).jpg",
+      "size": 409484,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9445883440,
+      "image_id": 1019286440,
+      "category_id": 3642907440,
+      "segmentation": [],
+      "area": 262144,
+      "bbox": [
+        0,
+        0,
+        512,
+        512
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3642907440,
+      "name": "Powdery_Mildew",
+      "supercategory": "Raw Data"
+    }
+  ]
+}
